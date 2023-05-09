@@ -1,5 +1,5 @@
 # MachineLearningNotebooks
-> 11 Exercises for Machine Learning
+> __11 Exercises for Machine Learning__
 > - Linear and Logistic Regression
 > - Univariant and Multivariant 
 > - Principal Component Analysis
